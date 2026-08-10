@@ -1,0 +1,49 @@
+[[main]]
+  name = "Inicio"
+  url = "/"
+  weight = 1
+
+[[main]]
+  name = "Programa"
+  url = "/programa/"
+  weight = 2
+
+[[main]]
+  name = "Priego"
+  url = "/priego/"
+  weight = 3
+
+[[main]]
+  name = "Inscripción"
+  url = "/inscripcion/"
+  weight = 4
+
+[[main]]
+  name = "Contacto"
+  url = "/contacto/"
+  weight = 5
+
+[[footer]]
+  name = "Inicio"
+  url = "/"
+  weight = 1
+
+[[footer]]
+  name = "Programa"
+  url = "/programa/"
+  weight = 2
+
+[[footer]]
+  name = "Priego"
+  url = "/priego/"
+  weight = 3
+
+[[footer]]
+  name = "Inscripción"
+  url = "/inscripcion/"
+  weight = 4
+
+[[footer]]
+  name = "Contacto"
+  url = "/contacto/"
+  weight = 5

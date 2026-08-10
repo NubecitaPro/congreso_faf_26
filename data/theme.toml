@@ -1,0 +1,5 @@
+[colors]
+  primary = "#005b9f" # Azul corporativo simulado de la FAF
+  secondary = "#008542" # Verde acento
+  neutral = "#f8f9fa" # Fondo muy limpio para resaltar fotos
+  neutralDark = "#1a1a1a" # Texto oscuro y elegante

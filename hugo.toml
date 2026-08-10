@@ -1,0 +1,6 @@
+baseURL = 'https://congresofaf.espinacco.es/'
+locale = 'es'
+title = 'FAF | Congreso 2027'
+
+[markup.goldmark.renderer]
+  unsafe = true

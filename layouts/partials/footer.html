@@ -1,0 +1,37 @@
+<footer id="site-footer" class="bg-white border-t border-gray-200 mt-16 py-10 print:hidden">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex flex-col md:flex-row items-center md:items-start justify-between space-y-6 md:space-y-0">
+      
+      <!-- Left Column: Logos -->
+      <div class="flex flex-col items-center md:items-start space-y-3">
+        <div class="flex items-center space-x-4">
+          <img src="{{ "img/logo_faf_tiny.png" | relURL }}" alt="FAF" class="h-10 w-auto object-contain nozoom" />
+          <div class="h-6 w-px bg-gray-200"></div>
+          <img src="{{ "img/logo_tiny.png" | relURL }}" alt="Priego de Córdoba" class="h-10 w-auto object-contain nozoom" />
+        </div>
+        <p class="text-xs text-gray-500 max-w-xs text-center md:text-left">
+          Congreso Anual de la Federación Andaluza de Fotografía. Priego de Córdoba 2027.
+        </p>
+      </div>
+
+      <!-- Right Column: Navigation Links -->
+      <div class="flex flex-col items-center md:items-end space-y-2">
+        <span class="text-xs uppercase tracking-wider font-bold text-gray-400 mb-1">Navegación</span>
+        <div class="flex flex-wrap justify-center md:justify-end gap-x-6 gap-y-2 text-sm">
+          {{ range .Site.Menus.footer }}
+            <a href="{{ .URL | relLangURL }}" class="text-gray-600 hover:text-primary-600 font-medium transition-colors">
+              {{ .Name }}
+            </a>
+          {{ end }}
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Bottom Bar -->
+    <div class="mt-8 pt-6 border-t border-gray-100 flex flex-col sm:flex-row items-center justify-between text-xs text-gray-400">
+      <p>&copy; {{ now.Format "2006" }} Federación Andaluza de Fotografía &amp; Ayuntamiento de Priego de Córdoba.</p>
+      <p class="mt-2 sm:mt-0">Diseño para el Congreso FAF 2027</p>
+    </div>
+  </div>
+</footer>

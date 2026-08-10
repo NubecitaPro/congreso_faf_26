@@ -1,0 +1,64 @@
+<header class="w-full bg-white shadow-sm sticky top-0 z-50 border-b border-gray-100">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 flex items-center justify-between">
+    
+    <!-- Logo Section (FAF + Priego) -->
+    <a href="{{ "" | relLangURL }}" class="flex items-center space-x-2 sm:space-x-4 shrink-0">
+      <img src="{{ "img/logo_faf_tiny.png" | relURL }}" alt="Federación Andaluza de Fotografía" class="faf-header-logo w-auto object-contain nozoom" />
+      <div class="h-6 sm:h-8 w-px bg-gray-200"></div>
+      <img src="{{ "img/logo_tiny.png" | relURL }}" alt="Ayuntamiento de Priego de Córdoba" class="faf-header-logo w-auto object-contain nozoom" />
+    </a>
+
+    <!-- Desktop Navigation Menu (hidden on mobile < 768px) -->
+    <nav class="faf-nav-container hidden md:flex items-center">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+        {{ $active := false }}
+        {{ if eq $currentPage.RelPermalink .URL }}
+          {{ $active = true }}
+        {{ else if and (ne .URL "/") (hasPrefix $currentPage.RelPermalink .URL) }}
+          {{ $active = true }}
+        {{ end }}
+        <a href="{{ .URL | relLangURL }}" class="faf-nav-link text-sm uppercase tracking-wider {{ if $active }}active{{ end }}">
+          {{ .Name }}
+        </a>
+      {{ end }}
+    </nav>
+
+    <!-- Mobile Menu Button (Hamburger) -->
+    <div class="flex md:hidden items-center">
+      <button id="mobile-menu-btn" type="button" class="text-gray-700 hover:text-primary-600 focus:outline-none p-2 rounded-lg hover:bg-gray-100 transition-colors" aria-label="Abrir menú de navegación">
+        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile Dropdown Menu -->
+  <div id="mobile-menu" class="hidden md:hidden bg-white border-t border-gray-100 px-4 pt-3 pb-5 space-y-1 shadow-lg">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+      {{ $active := false }}
+      {{ if eq $currentPage.RelPermalink .URL }}
+        {{ $active = true }}
+      {{ else if and (ne .URL "/") (hasPrefix $currentPage.RelPermalink .URL) }}
+        {{ $active = true }}
+      {{ end }}
+      <a href="{{ .URL | relLangURL }}" class="block px-3 py-2.5 text-base font-semibold text-gray-700 hover:text-primary-600 hover:bg-gray-50 rounded-lg transition-colors {{ if $active }}text-primary-600 font-bold bg-gray-50{{ end }}">
+        {{ .Name }}
+      </a>
+    {{ end }}
+  </div>
+</header>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const btn = document.getElementById('mobile-menu-btn');
+    const menu = document.getElementById('mobile-menu');
+    if (btn && menu) {
+      btn.addEventListener('click', function() {
+        menu.classList.toggle('hidden');
+      });
+    }
+  });
+</script>

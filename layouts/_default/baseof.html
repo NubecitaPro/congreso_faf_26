@@ -1,0 +1,26 @@
+<!doctype html>
+<html
+  lang="{{ with site.Params.isoCode | default (site.Language.Locale | default `es`) }}{{- . -}}{{ end }}"
+  dir="ltr"
+  class="scroll-smooth"
+  data-default-appearance="light">
+  {{- partial "head.html" . -}}
+  {{- partialCached "init.html" . -}}
+
+  <body class="bg-gray-50 text-gray-900 flex flex-col min-h-screen font-sans antialiased">
+    <div id="the-top" class="sr-only">
+      <a href="#main-content">{{ i18n "nav.skip_to_main" | default "Ir al contenido principal" }}</a>
+    </div>
+
+    <!-- Header -->
+    {{ partial "header/basic.html" . }}
+
+    <!-- Main Content -->
+    <main id="main-content" class="grow">
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    <!-- Footer -->
+    {{ partial "footer.html" . }}
+  </body>
+</html>
