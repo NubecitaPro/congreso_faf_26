@@ -1,12 +1,16 @@
-<header class="w-full bg-white shadow-sm sticky top-0 z-50 border-b border-gray-100">
+<header class="w-full bg-white sticky top-0 z-50 border-b border-gray-100 py-6">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 flex items-center justify-between">
     
     <!-- Logo Section (FAF + Priego) -->
+    <div class="flex items-center space-x-2 sm:space-x-4 shrink-0">
     <a href="{{ "" | relLangURL }}" class="flex items-center space-x-2 sm:space-x-4 shrink-0">
-      <img src="{{ "img/logo_faf_tiny.png" | relURL }}" alt="Federación Andaluza de Fotografía" class="faf-header-logo w-auto object-contain nozoom" />
-      <div class="h-6 sm:h-8 w-px bg-gray-200"></div>
       <img src="{{ "img/logo_tiny.png" | relURL }}" alt="Ayuntamiento de Priego de Córdoba" class="faf-header-logo w-auto object-contain nozoom" />
     </a>
+    <a href="https://www.federacionandaluzafotografia.com/" target="_blank" class="flex items-center space-x-2 sm:space-x-4 shrink-0">
+      <img src="{{ "img/logo_faf_tiny.png" | relURL }}" alt="Federación Andaluza de Fotografía" class="faf-header-logo w-auto object-contain nozoom" />
+      <div class="h-6 sm:h-8 w-px bg-gray-200"></div>
+    </a>
+    </div>
 
     <!-- Desktop Navigation Menu (hidden on mobile < 768px) -->
     <nav class="faf-nav-container hidden md:flex items-center">
