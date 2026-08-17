@@ -8,6 +8,10 @@
   --faf-header-border: #e5e7eb;
 }
 
+html {
+  font-family: "Rethink Sans", sans-serif;
+}
+
 h1,
 h2,
 h3,

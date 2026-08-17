@@ -39,7 +39,7 @@
   </div>
 
   <!-- Mobile Dropdown Menu -->
-  <div id="mobile-menu" class="hidden md:hidden bg-white border-t border-gray-100 px-4 pt-3 pb-5 space-y-1 shadow-lg">
+  <div id="mobile-menu" class="hidden md:hidden bg-white px-4 pt-3 pb-5 space-y-1 shadow-lg uppercase text-right">
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
       {{ $active := false }}
@@ -48,7 +48,7 @@
       {{ else if and (ne .URL "/") (hasPrefix $currentPage.RelPermalink .URL) }}
         {{ $active = true }}
       {{ end }}
-      <a href="{{ .URL | relLangURL }}" class="block px-3 py-2.5 text-base font-semibold text-gray-700 hover:text-primary-600 hover:bg-gray-50 rounded-lg transition-colors {{ if $active }}text-primary-600 font-bold bg-gray-50{{ end }}">
+      <a href="{{ .URL | relLangURL }}" class="block faf-nav-link px-3 py-2.5 text-base font-semibold text-gray-700 hover:text-primary-600 hover:bg-gray-50 rounded-lg transition-colors {{ if $active }}text-primary-600 font-bold bg-gray-50{{ end }}">
         {{ .Name }}
       </a>
     {{ end }}
