@@ -9,7 +9,7 @@
           <div class="h-6 w-px bg-gray-200"></div>
           <img src="{{ "img/logo_tiny.webp" | relURL }}" alt="Priego de Córdoba" class="h-10 w-auto object-contain nozoom" />
         </div>
-        <p class="text-xs text-gray-500 max-w-xs text-center md:text-left">
+        <p class="text-xs text-gray-500 max-w-xs text-center md:text-left"> 
           IX Congreso Federación Andaluza de Fotografía. Priego de Córdoba 2027
         </p>
       </div>
@@ -19,7 +19,7 @@
         <span class="text-xs uppercase tracking-wider font-bold text-gray-400 mb-1">Navegación</span>
         <div class="flex flex-wrap justify-center md:justify-end gap-x-6 gap-y-2 text-sm">
           {{ range .Site.Menus.footer }}
-            <a href="{{ .URL | relLangURL }}" class="text-gray-600 hover:text-primary-600 font-medium transition-colors">
+            <a href="{{ .URL | relLangURL }}" class="hover-link text-gray-600 hover:text-primary-600 font-medium transition-colors ">
               {{ .Name }}
             </a>
           {{ end }}
@@ -29,9 +29,9 @@
     </div>
 
     <!-- Bottom Bar -->
-    <div class="mt-8 pt-6 border-t border-gray-100 flex flex-col sm:flex-row items-center justify-between text-xs text-gray-400">
-      <p>&copy; {{ now.Format "2006" }} Federación Andaluza de Fotografía &amp; Ayuntamiento de Priego de Córdoba.</p>
-      <p class="mt-2 sm:mt-0">Desarrollo y diseño  <a href="https://www.espinacco.es/es/" target="_blank" rel="noopener noreferrer">Espinacco Design </a> </p>
-    </div>
+<div class="mt-8 pt-6 flex flex-col items-center text-center text-xs text-gray-400 gap-2">
+  <p>&copy; {{ now.Format "2006" }} Federación Andaluza de Fotografía y Asociación fotográfica de Priego de Córdoba.</p>
+  <p>Creado por <a href="https://www.espinacco.es/es/" target="_blank" rel="noopener noreferrer" class="hover:underline text-gray-300">Espinacco Design</a></p>
+</div>
   </div>
 </footer>
