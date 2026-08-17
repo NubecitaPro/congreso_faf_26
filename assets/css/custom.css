@@ -21,6 +21,11 @@ h6 {
   font-family: "Rethink Sans", sans-serif;
 }
 
+/* Hover Styling */
+.hover-link:hover {
+  color: var(--faf-blue-hover);
+}
+
 /* Header Styling */
 .faf-header {
   background-color: #ffffff;
