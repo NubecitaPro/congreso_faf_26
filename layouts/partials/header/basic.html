@@ -1,6 +1,6 @@
 <header class="w-full bg-white sticky top-0 z-50 border-b border-gray-100 py-6">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 flex items-center justify-between">
-    
+
     <!-- Logo Section (FAF + Priego) -->
     <div class="flex items-center space-x-2 sm:space-x-4 shrink-0">
     <a href="{{ "" | relLangURL }}" class="flex items-center space-x-2 sm:space-x-4 shrink-0">
@@ -13,7 +13,7 @@
     </div>
 
     <!-- Desktop Navigation Menu (hidden on mobile < 768px) -->
-    <nav class="faf-nav-container hidden md:flex items-center">
+    <nav class="faf-nav-container hidden md:flex items-center gap-5">
       {{ $currentPage := . }}
       {{ range .Site.Menus.main }}
         {{ $active := false }}
@@ -22,9 +22,32 @@
         {{ else if and (ne .URL "/") (hasPrefix $currentPage.RelPermalink .URL) }}
           {{ $active = true }}
         {{ end }}
-        <a href="{{ .URL | relLangURL }}" class="faf-nav-link text-sm uppercase tracking-wider {{ if $active }}active{{ end }}">
-          {{ .Name }}
-        </a>
+
+        {{ if .HasChildren }}
+          <div class="nested-menu">
+            <a href="{{ .URL | relLangURL }}" class="faf-nav-link text-sm uppercase tracking-wider inline-flex items-center gap-1 {{ if $active }}active{{ end }}">
+              {{ .Name }}
+              <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </a>
+            <div class="menuhide">
+              <div class="rounded-xl border border-neutral-200/80 bg-white/95 p-3 shadow-xl shadow-neutral-900/10 dark:border-neutral-700/80 dark:bg-neutral-800/95">
+                <div class="flex flex-col space-y-2">
+                  {{ range .Children }}
+                    <a href="{{ .URL | relLangURL }}" class="block rounded-md px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 hover:text-primary-600 {{ if eq $currentPage.RelPermalink .URL }}text-primary-600 font-medium{{ end }}">
+                      {{ .Name }}
+                    </a>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+          </div>
+        {{ else }}
+          <a href="{{ .URL | relLangURL }}" class="faf-nav-link text-sm uppercase tracking-wider {{ if $active }}active{{ end }}">
+            {{ .Name }}
+          </a>
+        {{ end }}
       {{ end }}
     </nav>
 
@@ -48,9 +71,23 @@
       {{ else if and (ne .URL "/") (hasPrefix $currentPage.RelPermalink .URL) }}
         {{ $active = true }}
       {{ end }}
-      <a href="{{ .URL | relLangURL }}" class="block faf-nav-link px-3 py-2.5 text-base font-semibold text-gray-700 hover:text-primary-600 hover:bg-gray-50 rounded-lg transition-colors {{ if $active }}text-primary-600 font-bold bg-gray-50{{ end }}">
-        {{ .Name }}
-      </a>
+
+      {{ if .HasChildren }}
+        <div class="space-y-1">
+          <a href="{{ .URL | relLangURL }}" class="block faf-nav-link px-3 py-2.5 text-base font-semibold text-gray-700 hover:text-primary-600 hover:bg-gray-50 rounded-lg transition-colors {{ if $active }}text-primary-600 font-bold bg-gray-50{{ end }}">
+            {{ .Name }}
+          </a>
+          {{ range .Children }}
+            <a href="{{ .URL | relLangURL }}" class="block pl-6 pr-3 py-2 text-sm text-gray-600 hover:text-primary-600 hover:bg-gray-50 rounded-lg transition-colors {{ if eq $currentPage.RelPermalink .URL }}text-primary-600 font-medium{{ end }}">
+              {{ .Name }}
+            </a>
+          {{ end }}
+        </div>
+      {{ else }}
+        <a href="{{ .URL | relLangURL }}" class="block faf-nav-link px-3 py-2.5 text-base font-semibold text-gray-700 hover:text-primary-600 hover:bg-gray-50 rounded-lg transition-colors {{ if $active }}text-primary-600 font-bold bg-gray-50{{ end }}">
+          {{ .Name }}
+        </a>
+      {{ end }}
     {{ end }}
   </div>
 </header>

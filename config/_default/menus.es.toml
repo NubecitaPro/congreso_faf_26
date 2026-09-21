@@ -4,9 +4,16 @@
   weight = 1
 
 [[main]]
+  identifier = "programa"
   name = "Programa"
   url = "/programa/"
   weight = 2
+
+[[main]]
+  name = "Talleres"
+  parent = "programa"
+  url = "/talleres/"
+  weight = 4
 
 [[main]]
   name = "Priego"
@@ -47,3 +54,4 @@
   name = "Contacto"
   url = "/contacto/"
   weight = 5
+

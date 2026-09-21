@@ -7,20 +7,29 @@
   {{- partial "head.html" . -}}
   {{- partialCached "init.html" . -}}
 
-  <body class="bg-gray-50 text-gray-900 flex flex-col min-h-screen font-sans antialiased">
-    <div id="the-top" class="sr-only">
-      <a href="#main-content">{{ i18n "nav.skip_to_main" | default "Ir al contenido principal" }}</a>
+  <body class="flex flex-col h-screen m-auto leading-7 max-w-7xl px-6 sm:px-14 md:px-24 lg:px-32 bg-gray-50 text-gray-900 font-sans antialiased">
+    <div id="the-top" class="absolute flex self-center">
+      <a class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0" href="#main-content">
+        {{ i18n "nav.skip_to_main" | default "Ir al contenido principal" }}
+      </a>
     </div>
 
-    <!-- Header -->
-    {{ partial "header/basic.html" . }}
+    <header>
+      {{ partial "header/basic.html" . }}
+    </header>
 
-    <!-- Main Content -->
-    <main id="main-content" class="grow">
-      {{ block "main" . }}{{ end }}
-    </main>
+    <div class="relative flex flex-col grow">
+      <main id="main-content" class="grow">
+        {{ block "main" . }}{{ end }}
+        {{ if site.Params.footer.showScrollToTop | default true }}
+          {{ partial "scroll-to-top.html" . }}
+        {{ end }}
+      </main>
 
-    <!-- Footer -->
-    {{ partial "footer.html" . }}
+      {{ partial "footer.html" . }}
+      {{ if site.Params.enableSearch | default false }}
+        {{ partial "search.html" . }}
+      {{ end }}
+    </div>
   </body>
 </html>
