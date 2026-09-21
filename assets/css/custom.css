@@ -101,6 +101,10 @@ h6 {
   filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.4));
 }
 
+.faf-home-hero {
+  margin-bottom: 3rem;
+}
+
 @media (min-width: 768px) {
   .faf-hero-logo {
     max-height: 40vh !important; /* Escritorio */
@@ -183,6 +187,19 @@ h6 {
   text-align: center;
   padding: 1.25rem 1rem;
   margin: 0;
+}
+
+.faf-timeline-thumbnail {
+  width: 7rem;
+  height: 5rem;
+  object-fit: cover;
+}
+
+@media (max-width: 639px) {
+  .faf-timeline-thumbnail {
+    width: 5rem;
+    height: 4rem;
+  }
 }
 
 /* Hero Title */
