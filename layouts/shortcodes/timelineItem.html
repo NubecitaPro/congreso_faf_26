@@ -1,0 +1,71 @@
+{{ $icon := .Get "icon" | default "check" }}
+{{ $md := .Get "md" | default false }}
+{{ $header := .Get "header" }}
+{{ $badge := .Get "badge" }}
+{{ $subheader := .Get "subheader" }}
+{{ $imagePath := .Get "image" }}
+{{ $imagePage := false }}
+{{ with .Get "pageRef" }}
+  {{ $imagePage = site.GetPage . }}
+{{ end }}
+{{ if and (not $imagePath) $imagePage }}
+  {{ $imagePath = partial "functions/feature-image.html" $imagePage }}
+{{ end }}
+{{ $imageURL := "" }}
+{{ if $imagePath }}
+  {{ if $imagePage }}
+    {{ with $imagePage.Resources.GetMatch $imagePath }}
+      {{ $imageURL = (.Fill "240x160 Center").RelPermalink }}
+    {{ end }}
+  {{ end }}
+  {{ if not $imageURL }}
+    {{ with resources.GetMatch $imagePath }}
+      {{ $imageURL = (.Fill "240x160 Center").RelPermalink }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<li>
+  <div class="flex">
+    <div
+      class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full ltr:-ml-12 rtl:-mr-[79px] mt-5">
+      {{ partial "icon" $icon }}
+    </div>
+    <div class="block p-6 rounded-lg shadow-2xl flex-1 ms-6 mb-10 break-words">
+      <div class="flex items-start gap-4">
+        <div class="min-w-0 flex-1">
+          <div class="flex justify-between gap-4">
+            {{ if $header }}
+              <h2 class="mt-0">{{ $header }}</h2>
+            {{ end }}
+            {{ if $badge }}
+              <h3 class="shrink-0">
+                {{ partial "badge" $badge }}
+              </h3>
+            {{ end }}
+          </div>
+          {{ if $subheader }}
+            <h4 class="mt-0">
+              {{ $subheader }}
+            </h4>
+          {{ end }}
+          <div class="mb-6">
+            {{ if $md }}
+              {{- .Inner | markdownify -}}
+            {{ else }}
+              {{- .Inner -}}
+            {{ end }}
+          </div>
+        </div>
+        {{ with $imageURL }}
+          <img
+            src="{{ . }}"
+            alt=""
+            loading="lazy"
+            decoding="async"
+            class="not-prose faf-timeline-thumbnail shrink-0 rounded-md object-cover shadow-sm" />
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</li>
