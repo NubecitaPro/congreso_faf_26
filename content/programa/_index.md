@@ -16,12 +16,12 @@ Un fin de semana en Priego de Córdoba. Exposiciónes, talleres y concursos.
 
 {{< timeline >}}
 
-{{< timelineItem icon="wand-magic-sparkles" header="10:00 - 13:00 - Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
+{{< timelineItem pageRef="/talleres/tecnicas_creativas_con_fauna_salvaje/" icon="wand-magic-sparkles" header="10:00 - 13:00 - Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
 Taller fotografía Paisaje y naturaleza </br>
 <i> <b>Ponente</b></i>: <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
 <i> <b>Lugar</b></i>: <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br></br>
 
-{{< button pageRef="/talleres/mario_cea/" >}}
+{{< button pageRef="/talleres/tecnicas_creativas_con_fauna_salvaje/" >}}
 Más información
 {{< /button >}}
 
