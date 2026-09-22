@@ -10,10 +10,16 @@
   weight = 2
 
 [[main]]
-  name = "Talleres"
+  name = "Actividades"
   parent = "programa"
   url = "/talleres/"
   weight = 4
+  
+[[main]]
+  name = "Concursos"
+  parent = "programa"
+  url = "/concursos/"
+  weight = 5
 
 [[main]]
   name = "Priego"
