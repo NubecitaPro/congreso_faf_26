@@ -12,7 +12,7 @@
 [[main]]
   name = "Actividades"
   parent = "programa"
-  url = "/talleres/"
+  url = "/actividades/"
   weight = 4
   
 [[main]]
