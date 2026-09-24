@@ -24,7 +24,7 @@
         {{ end }}
 
         {{ if .HasChildren }}
-          <div class="nested-menu">
+          <div class="nested-menu faf-nav-container hidden md:flex items-center gap-5">
             <a href="{{ .URL | relLangURL }}" class="faf-nav-link text-sm uppercase tracking-wider inline-flex items-center gap-1 {{ if $active }}active{{ end }}">
               {{ .Name }}
               <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
