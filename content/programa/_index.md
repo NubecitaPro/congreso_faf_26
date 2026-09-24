@@ -16,32 +16,34 @@ Un fin de semana en Priego de Córdoba. Exposiciónes, talleres y concursos.
 
 {{< timeline >}}
 
-{{< timelineItem pageRef="/talleres/tecnicas_creativas_con_fauna_salvaje/" icon="wand-magic-sparkles" header="10:00 - 13:00 - Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
-Taller fotografía Paisaje y naturaleza </br>
-<i> <b>Ponente</b></i>: <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
-<i> <b>Lugar</b></i>: <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br></br>
+{{< timelineItem icon="graduation-cap" header="10:00 - 13:00" subheader="Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
 
-{{< button pageRef="/talleres/tecnicas_creativas_con_fauna_salvaje/" >}}
+Taller fotografía Paisaje y naturaleza </br>
+
+<i> <b>Ponente:</b></i> <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
+<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br></br>
+
+{{< button pageRef="/actividades/tecnicas_creativas_con_fauna_salvaje/" >}}
 Más información
 {{< /button >}}
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="instagram" header="18:00 - 19:30" badge="Salida fotográfica" subheader="Por la ciudad" >}}
+{{< timelineItem icon="sun" header="18:00 - 19:30" badge="Salida fotográfica" subheader="Por la ciudad" >}}
 
 Salida fotográfica por la ciudad de Priego de Córdoba para fotografiar los lugares más emblemáticos durante la hora dorada.<br>
-<i> <b>Ponente</b></i>: Por concretar <br>
-<i> <b>Lugar</b></i>: Carnicerías Reales c/Luz, 32 <br>
+<i> <b>Ponente:</b></i> Por concretar <br>
+<i> <b>Lugar:</b></i> Carnicerías Reales c/Luz, 32 <br>
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="wand-magic-sparkles" header="16:00 - 18:30" badge="Taller" >}}
+{{< timelineItem icon="graduation-cap" header="16:00 - 18:30" badge="Taller" >}}
 
 Taller de fotografía de aves rapaces.
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="wand-magic-sparkles" header="21:00 - 23:30" badge="Cena" >}}
+{{< timelineItem icon="mug-hot" header="21:00 - 23:30" badge="Cena" >}}
 
 Cena para los inscritos.
 
@@ -56,18 +58,18 @@ Cena para los inscritos.
 {{< accordionItem title="21 de febrefo | Domingo " md=false >}}
 {{< timeline >}}
 
-{{< timelineItem icon="laptop" header="Todo el día" badge="Concurso" subheader="Concurso de microrrelatos" >}}
+{{< timelineItem icon="star" header="Todo el día" badge="Concurso" subheader="Concurso de microrrelatos" >}}
 
 Realizar concurso de microrrelatos.<br>
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="wand-magic-sparkles" header="10:00 - 12:00" badge="Taller" subheader="Revelado de las fotografías" >}}
+{{< timelineItem icon="graduation-cap" header="10:00 - 12:00" badge="Taller" subheader="Revelado de las fotografías" >}}
 Taller sobre el revelado de las fotografías.</br>
 <i> <b>Lugar</b></i>: Teatro Victoria c/Antonio de la Barrera, 19
 {{< /timelineItem >}}
 
-{{<timelineItem icon="instagram" header="12:00 - 12:30" badge="Exposición" subheader="Inauguración de exposición" >}}
+{{<timelineItem icon="image" header="12:00 - 12:30" badge="Exposición" subheader="Inauguración de exposición" >}}
 Inauguración de la Exposición del II concurso Subbética en el Niceto Alcala-Zamora
 <br>
 <i> <b>Lugar</b></i>: Teatro Victoria c/Antonio de la Barrera, 19 <br>
