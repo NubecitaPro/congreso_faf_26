@@ -1,5 +1,7 @@
 ---
 title: "Descubriendo Priego de Córdoba"
+showAuthor: false
+showDate: false
 ---
 
 <p> Priego de Córdoba es una ciudad para descubrir con calma, entre calles con historia, tradiciones que siguen vivas y rincones que conservan la esencia de la vida local. Su patrimonio, su pasado andalusí y barroco, sus fiestas populares, su artesanía y sus aldeas forman parte de una identidad propia, marcada por la memoria, la hospitalidad y el paisaje de la Subbética. </p>
