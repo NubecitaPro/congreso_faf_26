@@ -17,11 +17,11 @@ tags: ["taller", "precongreso"]
 > **Duración** 7-8 horas \
 > **Lugar:** Priego de Córdoba \
 > **Ponente:** <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a>\
-> **Aforo:** Ilimitado 
+> **Aforo:** Limitado
 
 ## Descripción del taller
 
-El objetivo de este taller es aprender todos los secretos de esas “técnicas
+El objetivo de este taller es aprender todos los secretos de esas "técnicas
 especiales” que hoy en día están muy en auge y con las cuales se consiguen
 imágenes de un gran impacto visual.
 
@@ -32,7 +32,7 @@ imágenes de un gran impacto visual.
 
 ### Elementos del taller
 
-- **Fotografía de alta velocidad con iluminación artificial:** Se montara un equipo completo de
+- **Fotografía de alta velocidad con iluminación artificial:** Se montará un equipo completo de
   alta velocidad para ver su funcionamiento. Con esta técnica se logra parar cualquier
   movimiento por veloz que este sea.
 - **Fotografía con múltiples exposiciones:** La fotografía de múltiple exposición nos brinda
@@ -57,9 +57,41 @@ cualquier imagen que podamos imaginar.
 Este tipo de “técnicas especiales” suelen dar como resultado imágenes únicas y originales y en
 muchas ocasiones irrepetibles, algo que todos los fotógrafos queremos tener en nuestro archivo.
 
+Conoceremos cuales son los mejores métodos a emplear para cada una de ellas, que condiciones
+meteorológicas son las más propicias, así como los mejores materiales para conseguir casi
+cualquier imagen que podamos imaginar.
+
+### Agenda del taller
+
+El taller tiene una duración aproximada de 8-9 horas repartidas de las siguiente manera:
+
+#### Sábado
+
+- **[10:30 - 14:00]**: Teoría y desarrollo de las distintas técnicas (configuraciones de equipos,
+materiales necesarios, etc…).
+- **[14:00 - 17:00]**: Comida.
+- **[17:00 - 20:00]**: _Continuación_: Teoría técnicas creativas en fotografía de fauna salvaje.
+Montaje de equipo de alta velocidad para ver los materiales y conocer sufuncionamiento en directo con demostración práctica de
+retrato de aves en condiciones controladas.
+
+#### Domingo
+
+- **[11:00 - 13:00]**: Prácticas de fotografía de acción con aves en condiciones controladas.
+
 ### Sobre el ponente
-<a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> es un fotógrafo profesional de naturaleza especializado en fauna salvaje y en técnicas especiales y creativas. 
-Con más de 25 años de experiencia, sus obras fotográficas han sido galardonadas más de 80 veces en diferentes certámenes internacionales sobre esta temática entre los que destacan Wildlife Photographer Of The Year, GDT, Asferico, Bird Photographer Of The Year, OASIS Photo Contest, Nature's Best  Photography, AMBID, Memorial Maria Luisa, Montphoto, etc. 
+<a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> es un fotógrafo profesional de naturaleza especializado en fauna salvaje y en técnicas especiales y creativas.
+Con más de 25 años de experiencia, sus obras fotográficas han sido galardonadas más de 80 veces en diferentes certámenes internacionales sobre esta temática entre los que destacan Wildlife Photographer Of The Year, GDT, Asferico, Bird Photographer Of The Year, OASIS Photo Contest, Nature's Best  Photography, AMBID, Memorial Maria Luisa, Montphoto, etc.
+
+#### Últimos premios y reconocimientos:
+
+- Primer premio en concurso internacional Wildlife Photographer of the year 2016 “People Choice”.
+- Primer premio en concurso internacional FotoFIO 2015 "Aves de España".
+- Premio absoluto en concurso internacional FotoNoja 2017.
+- Primer premio en concurso internacional FotoNoja 2017 “Aves”.
+- Primer premio en concurso internacional FotoAves 2017 "Aves de España".
+- Primer premio en concurso internacional AMBID 2016 “Fauna”.
+- Primer premio en concurso internacional Memorial Felix Rodrigez de la Fuente 2016.
+- Primer premio en concurso internacional EDC Natura 2015 “Fotografía creativa”.
 
 ## Galería de Mario Cea
 
