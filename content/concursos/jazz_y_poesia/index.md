@@ -17,7 +17,7 @@ tags: ["concurso", "congreso"]
 > **Fechas:** 15 de septiembre - 20 de diciembre de 2026 \
 > **Fallo del Jurado:** Enero de 2027  \
 > **Lugar:** Priego de Córdoba \
-> **Participación:** Gratuita 
+> **Participación:** Gratuita
 
 
 ## Bases del concurso
@@ -63,7 +63,7 @@ fichero con el Nº de serie escogida + Título.
 {icon="eye"}
 
 ### Formato
-Las imágenes deberán enviarse en formato .JPG con una resolución mínima de 200 ppp y un
+Las imágenes deberán enviarse en formato JPG con una resolución mínima de 200 ppp y un
 tamaño máximo de 5.000 píxeles en su lado mayor, y peso no superior a 5 Mb.
 
 - **No se admitirán** imágenes creadas por inteligencia artificial, ni siquiera de manera parcial.
@@ -105,9 +105,12 @@ La comisión organizadora establecerá una fecha de la inauguración de la expos
 Se contabilizarán para las distinciones FAF y CEF el 15% de las obras presentadas que mayor
 puntuación obtengan.
 
-La entrega de premios se realizará durante la Gala del IX congreso de la Federación Andaluza
+> [!Importante]
+> La entrega de premios se realizará durante la Gala del IX congreso de la Federación Andaluza
 de Fotografía
- 
+
+<br/>
+
  {{< button href="Bases_concurso_jazz.pdf" target="_self" >}}
 Ver las bases
 {{< /button >}}
