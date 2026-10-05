@@ -9,6 +9,9 @@ showHero: true
 showAuthor: false
 externalLinkForceNewTab: true
 showTaxonomies: true
+showReadingTime: false
+showWordCount: false
+showDate: false
 tags: ["taller", "precongreso"]
 ---
 

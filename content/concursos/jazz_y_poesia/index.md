@@ -10,6 +10,8 @@ showHero: true
 showAuthor: false
 externalLinkForceNewTab: true
 showTaxonomies: true
+showReadingTime: false
+showWordCount: false
 tags: ["concurso", "congreso"]
 ---
 
