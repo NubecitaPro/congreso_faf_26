@@ -1,5 +1,11 @@
 ---
 title: "Programa"
+summary: "Programa del IX Congreso FAF"
+showAuthor: false
+externalLinkForceNewTab: true
+showDate: false
+showReadingTime: false
+showWordCount: false
 ---
 
 Consulta la programación del congreso. Selecciona un día para ver sus actividades y ponencias.
@@ -16,7 +22,7 @@ Un fin de semana en Priego de Córdoba. Exposiciónes, talleres y concursos.
 
 {{< timeline >}}
 
-{{< timelineItem icon="graduation-cap" header="10:00 - 13:00" subheader="Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
+{{< timelineItem icon="graduation-cap" header="10:00 - 20:00" subheader="Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
 
 Taller fotografía Paisaje y naturaleza </br>
 
@@ -37,12 +43,6 @@ Salida fotográfica por la ciudad de Priego de Córdoba para fotografiar los lug
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="graduation-cap" header="16:00 - 18:30" badge="Taller" >}}
-
-Taller de fotografía de aves rapaces.
-
-{{< /timelineItem >}}
-
 {{< timelineItem icon="mug-hot" header="21:00 - 23:30" badge="Cena" >}}
 
 Cena para los inscritos.
@@ -60,13 +60,26 @@ Cena para los inscritos.
 
 {{< timelineItem icon="star" header="Todo el día" badge="Concurso" subheader="Concurso de microrrelatos" >}}
 
-Realizar concurso de microrrelatos.<br>
+Presentación del concurso de microrrelatos.<br>
 
 {{< /timelineItem >}}
 
 {{< timelineItem icon="graduation-cap" header="10:00 - 12:00" badge="Taller" subheader="Revelado de las fotografías" >}}
 Taller sobre el revelado de las fotografías.</br>
 <i> <b>Lugar</b></i>: Teatro Victoria c/Antonio de la Barrera, 19
+{{< /timelineItem >}}
+
+{{< timelineItem icon="graduation-cap" header="11:00 - 13:00" subheader="Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
+
+Continuación del taller fotografía Paisaje y naturaleza </br>
+
+<i> <b>Ponente:</b></i> <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
+<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br></br>
+
+{{< button pageRef="/actividades/tecnicas_creativas_con_fauna_salvaje/" >}}
+Más información
+{{< /button >}}
+
 {{< /timelineItem >}}
 
 {{<timelineItem icon="image" header="12:00 - 12:30" badge="Exposición" subheader="Inauguración de exposición" >}}
@@ -93,30 +106,14 @@ Arrancamos el congreso principal con una jornada dedicada a la técnica, la comp
 {{< accordionItem title="Dia 1 | Viernes | 5 de marzo " md=false >}}
 {{< timeline >}}
 
-{{< timelineItem icon="github" header="09:00 - 10:00" badge="Acreditaciones" subheader="Bienvenida" >}}
-Recogida de credenciales y bolsa de bienvenida.. </br>
+{{< timelineItem icon="github" header="Por concretar" badge="Recepción" subheader="Bienvenida" >}}
+Recogida de credenciales y bolsa de bienvenida. </br>
 <i> <b>Lugar</b></i>: Oficina de turismo
 {{< /timelineItem >}}
 
-{{<timelineItem icon="users" header="10:00 - 11:30" badge="Ponencia" subheader="La Luz en la Semana Santa Andaluza" >}}
-Análisis visual y composición en reportajes de tradiciones y certámenes.<br>
-<i> <b>Ponentes</b></i>: Juan García Rodriguez, Alicia Martinez Cabo <br>
-<i> <b>Lugar</b></i>: Teatro Victoria c/Antonio de la Barrera, 19 <br>
-
-{{< /timelineItem >}}
-
-{{< timelineItem icon="laptop" header="12:00 - 14:00" badge="Taller Técnico" subheader="Flujo de trabajo en RAW: De Darktable a GIMP" >}}
-
-Gestión de perfiles de color (Adobe RGB), reducción de ruido paramétrica y máscaras avanzadas con herramientas de código abierto.<br>
-<i> <b>Ponente</b></i>: Alberto Ortiz Madrid <br>
-<i> <b>Lugar</b></i>: Carnicerías Reales c/Luz, 32 <br>
-
-{{< /timelineItem >}}
-
-{{< timelineItem icon="coffee" header="14:00 - 16:30" badge="Descanso" >}}
-
-Tiempo libre para almorzar. Consulta la guía oficial de oficina de turismo para saber <a href="https://turismodepriego.com/donde-comer/" target="_blank" rel="noopener noreferrer">donde comer en Priego </a>
-
+{{< timelineItem icon="github" header="Por concretar" badge="Recepción" subheader="Bienvenida" >}}
+Recepción de auoridades a los congresistas. </br>
+<i> <b>Lugar</b></i>: Ayuntamiento
 {{< /timelineItem >}}
 
 {{< timelineItem icon="image" header="17:00 - 19:00" badge="Exposición" subheader="Inauguración: Liga Andaluza de Fotografía" >}}
@@ -135,18 +132,27 @@ Visita guiada a la exposición de las obras ganadoras de 2026.<br>
 {{< accordionItem title="Dia 2 | Sábado | 6 de marzo " md=false >}}
 {{< timeline >}}
 
-{{< timelineItem icon="github" header="Asamblea de asociaciones" badge="Actividad" subheader="10:00-12:00" >}}
+{{< timelineItem icon="github" header="Asamblea de asociaciones" badge="Actividad" subheader="10:00-14:00" >}}
 
 DESCRIBIR EVENTO</br>
 
-<i> <b>Lugar</b></i>: Por definir<br>
+<i> <b>Lugar</b></i>: Comedor de San Francisco<br>
 {{< /timelineItem >}}
 
 {{<timelineItem icon="users" header="Inauguración IV Beca Joven" badge="Exposición" subheader="12:00-13:00" >}}
 
 Inauguración IV Beca Joven. Exposición y de escaparate y 4 autores FIAP<br>
 
-<i> <b>Ponentes</b></i>: Juan García Rodriguez, Alicia Martinez Cabo <br>
+<i> <b>Ponentes</b></i>> <br>
+<i> <b>Lugar</b></i>: Teatro Victoria c/Antonio de la Barrera, 19 <br>
+
+{{< /timelineItem >}}
+
+{{<timelineItem icon="users" header="Cata de aceite" badge="Actividades" subheader="12:00-13:00" >}}
+
+Inauguración IV Beca Joven. Exposición y de escaparate y 4 autores FIAP<br>
+
+<i> <b>Ponentes</b></i>> <br>
 <i> <b>Lugar</b></i>: Teatro Victoria c/Antonio de la Barrera, 19 <br>
 
 {{< /timelineItem >}}
