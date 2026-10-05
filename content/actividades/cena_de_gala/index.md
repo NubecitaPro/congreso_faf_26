@@ -2,7 +2,7 @@
 title: "Cena de Gala"
 summary: "Cena de Gala del IX Congreso de la Federación Andaluza de Fotografía."
 sharingLinks:
-featureImage: "nadia-valko-diets-unsplash.webp"
+featureImage: "alexander-naglestad-unsplash.webp"
 heroStyle: "big"
 showHero: true
 showAuthor: false
