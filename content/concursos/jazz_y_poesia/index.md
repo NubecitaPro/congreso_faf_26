@@ -12,6 +12,7 @@ externalLinkForceNewTab: true
 showTaxonomies: true
 showReadingTime: false
 showWordCount: false
+showDate: false
 tags: ["concurso", "congreso"]
 ---
 
