@@ -11,6 +11,12 @@ showDate: false
 
 <h2>Lugares para disfrutar de la gastronomía local </h2>
 <p> La gastronomía de Priego de Córdoba es un auténtico placer para los sentidos, combinando la tradición de la cocina cordobesa y andaluza con productos locales de máxima calidad, como su prestigioso aceite de oliva virgen extra con Denominación de Origen. En la localidad encontrarás desde mesones y tabernas tradicionales de toda la vida hasta restaurantes donde disfrutar de propuestas más actuales.</p>
+<h2>[ESPACIO PARA PATROCINADORES PLATA]</h2>
+<p>Si te apetece tomar algo o comer en un espacio con personalidad, te recomendamos visitar a nuestro patrocinador <b>[Nombre del local]</b>. Combina un ambiente de lo más artístico con una propuesta gastronómica 100% auténtica.</p>
+
+{{< gallery >}}
+<img src="gallery/patrocinadores_foto_priego.webp" class="grid-w100" />
+{{< /gallery >}}
 
 > [!TIP] Consejo
 >
