@@ -22,9 +22,29 @@ Un fin de semana en Priego de Córdoba. Exposiciónes, talleres y concursos.
 
 {{< timeline >}}
 
-{{< timelineItem icon="graduation-cap" header="10:00 - 20:00" subheader="Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
+{{< timelineItem icon="graduation-cap" header="10:00 - 14:00" subheader="Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
 
-Taller fotografía Paisaje y naturaleza </br>
+Taller fotografía Paisaje y naturaleza. Teoría y desarrollo de las distintas técnicas. </br>
+
+<i> <b>Ponente:</b></i> <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
+<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br></br>
+
+{{< button pageRef="/actividades/tecnicas_creativas_con_fauna_salvaje/" >}}
+Más información
+{{< /button >}}
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="mug-hot" header="14:00 - 17:00" subheader="Descanso"  badge="Descanso" >}}
+
+¿Con hambre entre actividad y actividad? Aprovecha al máximo la jornada y come en <b>[NOMBRE DEL RESTAURANTE]</b>. Descubre su carta de platos tradicionales y locales. <br>
+<i> <b>Reserva tu mesa:</b></i> [enlace]<br>
+<i> <b>Lugar:</b></i> </b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> calle Sol, 32</a></br></br>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="graduation-cap" header="17:00 - 20:00" subheader="Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
+
+Taller fotografía Paisaje y naturaleza. Demostración práctica de retrato de aves en condiciones controladas. </br>
 
 <i> <b>Ponente:</b></i> <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
 <i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br></br>
