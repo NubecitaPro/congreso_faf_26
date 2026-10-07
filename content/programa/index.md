@@ -37,9 +37,10 @@ Más información
 
 {{< timelineItem icon="mug-hot" header="14:00 - 17:00" subheader="Descanso"  badge="Descanso" >}}
 
+<b>[ESPACIO PARA PATROCINADORES PLATA]</b><br>
 ¿Con hambre entre actividad y actividad? Aprovecha al máximo la jornada y come en <b>[NOMBRE DEL RESTAURANTE]</b>. Descubre su carta de platos tradicionales y locales. <br>
 <i> <b>Reserva tu mesa:</b></i> [enlace]<br>
-<i> <b>Lugar:</b></i> </b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> calle Sol, 32</a></br></br>
+<i> <b>Lugar:</b></i></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> calle Sol, 32</a></br></br>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="graduation-cap" header="17:00 - 20:00" subheader="Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
