@@ -12,8 +12,6 @@ Consulta la programación del congreso. Selecciona un día para ver sus activida
 
 <h2> PRE-CONGRESO </h2>
 
-Un fin de semana en Priego de Córdoba. Exposiciónes, talleres y concursos.
-
 {{< accordion mode="collapse" separated=true >}}
 
 <!-- Primer día de precongreso -->
@@ -22,12 +20,12 @@ Un fin de semana en Priego de Córdoba. Exposiciónes, talleres y concursos.
 
 {{< timeline >}}
 
-{{< timelineItem icon="graduation-cap" header="10:00 - 14:00" subheader="Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
+{{< timelineItem icon="graduation-cap" header="10:00 - 14:00" subheader="Taller \"Fotografía Paisaje y Naturaleza\"" badge="Taller">}}
 
-Taller fotografía Paisaje y naturaleza. Teoría y desarrollo de las distintas técnicas. </br>
-
-<i> <b>Ponente:</b></i> <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
+<i> <b>Docente:</b></i> <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
 <i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br></br>
+
+Taller fotografía Paisaje y naturaleza. Teoría y desarrollo de las distintas técnicas. </br></br>
 
 {{< button pageRef="/actividades/tecnicas_creativas_con_fauna_salvaje/" >}}
 Más información
@@ -35,20 +33,18 @@ Más información
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="mug-hot" header="14:00 - 17:00" subheader="Descanso"  badge="Descanso" >}}
+{{< timelineItem icon="mug-hot" header="14:00-16:00" subheader="Almuerzo" badge="Comida" >}}
 
-<b>[ESPACIO PARA PATROCINADORES PLATA]</b><br>
-¿Con hambre entre actividad y actividad? Aprovecha al máximo la jornada y come en <b>[NOMBRE DEL RESTAURANTE]</b>. Descubre su carta de platos tradicionales y locales. <br>
-<i> <b>Reserva tu mesa:</b></i> [enlace]<br>
-<i> <b>Lugar:</b></i></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> calle Sol, 32</a></br></br>
+Se organizará un almuerzo conjunto para reunir a los participantes del taller que quieran compartir unos momentos de distensión.
+
 {{< /timelineItem >}}
 
-{{< timelineItem icon="graduation-cap" header="17:00 - 20:00" subheader="Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
+{{< timelineItem icon="graduation-cap" header="17:00 - 20:00" subheader="Taller \"Fotografía Paisaje y Naturaleza\"" badge="Taller">}}
 
-Taller fotografía Paisaje y naturaleza. Demostración práctica de retrato de aves en condiciones controladas. </br>
-
-<i> <b>Ponente:</b></i> <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
+<i> <b>Docente:</b></i> <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
 <i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br></br>
+
+Programa de tarde </br></br>
 
 {{< button pageRef="/actividades/tecnicas_creativas_con_fauna_salvaje/" >}}
 Más información
@@ -56,17 +52,17 @@ Más información
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="sun" header="18:00 - 19:30" badge="Salida fotográfica" subheader="Por la ciudad" >}}
+{{< timelineItem icon="sun" header="17:00 - 18:30" badge="Salida fotográfica" subheader="Por la ciudad" >}}
 
-Salida fotográfica por la ciudad de Priego de Córdoba para fotografiar los lugares más emblemáticos durante la hora dorada.<br>
-<i> <b>Ponente:</b></i> Por concretar <br>
-<i> <b>Lugar:</b></i> Carnicerías Reales c/Luz, 32 <br>
+Completar: visita para los acompañantes por la ciudad
+
+<i> <b>Lugar:</b></i> Por concretar <br>
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="mug-hot" header="21:00 - 23:30" badge="Cena" >}}
+{{< timelineItem icon="mug-hot" header="Cena libre" badge="Cena" >}}
 
-Cena para los inscritos.
+Aprovecha para descrubir los múltiples lugares que ofrece la ciudad para descubrir su gastronomía.
 
 {{< /timelineItem >}}
 
@@ -76,26 +72,15 @@ Cena para los inscritos.
 
 <!-- Segundo día de precongreso -->
 
-{{< accordionItem title="21 de febrefo | Domingo " md=false >}}
+{{< accordionItem title="21 de febrero | Domingo " md=false >}}
 {{< timeline >}}
 
-{{< timelineItem icon="star" header="Todo el día" badge="Concurso" subheader="Concurso de microrrelatos" >}}
-
-Presentación del concurso de microrrelatos.<br>
-
-{{< /timelineItem >}}
-
-{{< timelineItem icon="graduation-cap" header="10:00 - 12:00" badge="Taller" subheader="Revelado de las fotografías" >}}
-Taller sobre el revelado de las fotografías.</br>
-<i> <b>Lugar</b></i>: Teatro Victoria c/Antonio de la Barrera, 19
-{{< /timelineItem >}}
-
-{{< timelineItem icon="graduation-cap" header="11:00 - 13:00" subheader="Taller fotografía Paisaje y Naturaleza" badge="Taller">}}
-
-Continuación del taller fotografía Paisaje y naturaleza </br>
+{{< timelineItem icon="graduation-cap" header="11:00 - 13:00" subheader="Taller \"Fotografía Paisaje y Naturaleza\"" badge="Taller">}}
 
 <i> <b>Ponente:</b></i> <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
-<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br></br>
+<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br>
+
+Continuación del taller "Fotografía Paisaje y Naturaleza" </br></br>
 
 {{< button pageRef="/actividades/tecnicas_creativas_con_fauna_salvaje/" >}}
 Más información
@@ -103,10 +88,10 @@ Más información
 
 {{< /timelineItem >}}
 
-{{<timelineItem icon="image" header="12:00 - 12:30" badge="Exposición" subheader="Inauguración de exposición" >}}
-Inauguración de la Exposición del II concurso Subbética en el Niceto Alcala-Zamora
+{{<timelineItem icon="image" header="13:00 - 13:15" badge="Exposición" subheader="Inauguración de exposición" >}}
+Inauguración de la Exposición del II Concurso Fotografía "La Subbética".
 <br>
-<i> <b>Lugar</b></i>: Teatro Victoria c/Antonio de la Barrera, 19 <br>
+<i> <b>Lugar:</b></i> Por concretar</a></br>
 
 {{< /timelineItem >}}
 
@@ -119,28 +104,46 @@ Inauguración de la Exposición del II concurso Subbética en el Niceto Alcala-Z
 
 <h2> PROGRAMA OFICIAL DEL IX CONGRESO FAF </h2>
 
-Arrancamos el congreso principal con una jornada dedicada a la técnica, la composición y el intercambio de ideas.
+A continuación se detalla el pograma completo del congreso. Se irá actualizando cuando tengamos más detalles.
 
 <!-- Primer día de congreso -->
 
-{{< accordion mode="collapse" >}}
+{{< accordion mode="collapse" separated=true >}}
 {{< accordionItem title="Dia 1 | Viernes | 5 de marzo " md=false >}}
 {{< timeline >}}
 
-{{< timelineItem icon="github" header="Por concretar" badge="Recepción" subheader="Bienvenida" >}}
-Recogida de credenciales y bolsa de bienvenida. </br>
+{{< timelineItem icon="github" header="10:30 -14:00" badge="Recepción" subheader="Recepción de congresistas" >}}
+Los congresistas serán recibidos en la Oficina de turismo para entregarles sus credenciales e información del congreso. </br>
 <i> <b>Lugar</b></i>: Oficina de turismo
 {{< /timelineItem >}}
 
-{{< timelineItem icon="github" header="Por concretar" badge="Recepción" subheader="Bienvenida" >}}
-Recepción de auoridades a los congresistas. </br>
+{{< timelineItem icon="github" header="12:30 - 13:00" badge="Recepción" subheader="Recepción de autoridades" >}}
+ </br>
 <i> <b>Lugar</b></i>: Ayuntamiento
+{{< /timelineItem >}}
+
+{{< timelineItem icon="github" header="13:00" badge="Inauguración" subheader="Inauguración de la Sala FIAP" >}}
+Acto de inauguración de la sala FIAP de Priego de Córdoba. </br>
+<i> <b>Lugar</b></i>: Salad de Exposiciones del Edificio Palenque
 {{< /timelineItem >}}
 
 {{< timelineItem icon="image" header="17:00 - 19:00" badge="Exposición" subheader="Inauguración: Liga Andaluza de Fotografía" >}}
 
 Visita guiada a la exposición de las obras ganadoras de 2026.<br>
 <i> <b>Lugar</b></i>: Carnicerías Reales c/Luz, 32 <br>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="image" header="18:00 - 19:00" badge="Exposición" subheader="Inauguración: Liga Andaluza de Fotografía" >}}
+
+Visita guiada a la exposición de las obras ganadoras de 2026.<br>
+<i> <b>Lugar</b></i>: Carnicerías Reales c/Luz, 32 <br>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="star" header="Todo el día" badge="Concurso" subheader="Concurso de microrrelatos" >}}
+
+Presentación del concurso de microrrelatos.<br>
 
 {{< /timelineItem >}}
 
@@ -155,9 +158,7 @@ Visita guiada a la exposición de las obras ganadoras de 2026.<br>
 
 {{< timelineItem icon="github" header="Asamblea de asociaciones" badge="Actividad" subheader="10:00-14:00" >}}
 
-DESCRIBIR EVENTO</br>
-
-<i> <b>Lugar</b></i>: Comedor de San Francisco<br>
+<i> <b>Lugar</b></i>: Por concretar<br>
 {{< /timelineItem >}}
 
 {{<timelineItem icon="users" header="Inauguración IV Beca Joven" badge="Exposición" subheader="12:00-13:00" >}}
@@ -226,3 +227,14 @@ Acto de clausura del congreso y foto grupal.<br>
 {{< /accordionItem >}}
 
 {{< /accordion >}}
+
+<br>
+
+{{<alert icon="none">}}
+Con el objetivo de que el Congreso acogiera actividades de formación de calidad e interés general, y no disponiendo de tiempo suficiente durante la realización del mismo, hemos considerado extenderlo en un fin de semana para poder incluirlas.
+Dada la importancia del entorno natural de la sede del Congreso, el Geoparque de las Sierras Subbéticas (**declarado Geoparque Mundial de la UNESCO**), decidimos ofrecer la oportunidad que nos ofrece fotográficamente.  Por ello se ha  organizado  un fin de semana de precongreso para impartir un taller de fotografía de naturaleza con el prestigioso fotógrafo especialista en ese ámbito,  **Mario Cea.**
+
+Esperamos sea de vuestro interés.
+
+#### Os esperamos.
+{{< /alert >}}
