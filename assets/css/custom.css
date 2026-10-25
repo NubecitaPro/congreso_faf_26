@@ -255,6 +255,99 @@ h6 {
   transform: scale(1.02);
 }
 
+/* Sponsor logos */
+.faf-sponsor-group--gold {
+  margin-bottom: 2.5rem;
+}
+
+.faf-sponsor-heading {
+  margin: 0 0 1.25rem;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.faf-sponsor-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1.25rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.faf-sponsor-grid--gold .faf-sponsor-card {
+  flex: 0 1 18rem;
+  max-width: 24rem;
+}
+
+.faf-sponsor-grid--regular .faf-sponsor-card {
+  flex: 0 1 13rem;
+  max-width: 18rem;
+}
+
+.faf-sponsor-card {
+  box-sizing: border-box;
+  display: flex;
+  width: 100%;
+  min-width: 0;
+  height: 8rem;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06);
+}
+
+.faf-sponsor-card--gold {
+  height: 9rem;
+  padding: 1.25rem;
+}
+
+.faf-sponsor-logo {
+  display: block;
+  flex: none;
+  object-fit: contain;
+}
+
+.faf-sponsor-logo--gold {
+  width: 240px;
+  height: 110px;
+  max-width: 100%;
+}
+
+.faf-sponsor-logo--alone {
+  width: auto;
+  height: 300px;
+  max-width: 100%;
+}
+
+.faf-sponsor-logo--regular {
+  width: 145px;
+  height: 72px;
+  max-width: 100%;
+}
+
+@media (min-width: 640px) {
+  .faf-sponsor-card--gold {
+    height: 11rem;
+  }
+
+  .faf-sponsor-logo--gold {
+    width: 280px;
+    height: 140px;
+  }
+
+  .faf-sponsor-logo--regular {
+    width: 160px;
+    height: 80px;
+  }
+}
+
 .grid {
   column-gap: 1rem;
   row-gap: 1rem;
