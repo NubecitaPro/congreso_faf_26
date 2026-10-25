@@ -98,6 +98,16 @@ fotografías.
 **Comunicación Ganadores y Entrega de premios:** Gala de IX Congreso</br>
 La comisión organizadora establecerá una fecha de la inauguración de la exposición.</br>
 
+## Concurso patrocinado por
+
+{{< figure
+    src="logo_vizcantar.webp"
+    alt="Aceites Vizcantar"
+    href="https://aceitesvizcantar.com/"
+    class="faf-sponsor-logo faf-sponsor-logo--alone"
+    nozoom=true
+    >}}
+
 ## Premios
 #### 1º Premio Medalla oro CEF y Medalla de oro FAF y 300€
 #### 2º Premio Medalla plata FAF y 200€
