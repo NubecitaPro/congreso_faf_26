@@ -20,7 +20,7 @@ tags: ["actividades", "comida"]
 > **Hora:** 14:00 \
 > **Lugar:** [Restaurante El Casino](https://maps.app.goo.gl/vLxVhrnxwWMwA7Lb9) \
 > **Aforo:** Limitado \
-> **Precio por persona:** 37€
+> **Precio por persona:** 35€
 
 <br>
 
@@ -47,13 +47,13 @@ Salmorejo
 
 ### Plato principal
 
-Carillada / Bacalao
+Carillada o Bacalao
 
 _A elegir_
 
 ### Postre
 
-Gachas de turrolate
+Gachas de turrolate o fruta de temporada
 
 ### Bebida
 
