@@ -114,30 +114,45 @@ A continuación se detalla el pograma completo del congreso. Se irá actualizand
 
 {{< timelineItem icon="github" header="10:30 -14:00" badge="Recepción" subheader="Recepción de congresistas" >}}
 Los congresistas serán recibidos en la Oficina de turismo para entregarles sus credenciales e información del congreso. </br>
-<i> <b>Lugar</b></i>: Oficina de turismo
+<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/XQKtKWEexpgARxwx7" target="_blank">Oficina de Turismo</a><br>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="github" header="12:30 - 13:00" badge="Recepción" subheader="Recepción de autoridades" >}}
- </br>
-<i> <b>Lugar</b></i>: Ayuntamiento
+
+<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/azjGgpMRY9GbCVk27" target="_blank">Ayuntamiento</a><br>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="github" header="13:00" badge="Inauguración" subheader="Inauguración de la Sala FIAP" >}}
-Acto de inauguración de la sala FIAP de Priego de Córdoba. </br>
-<i> <b>Lugar</b></i>: Salad de Exposiciones del Edificio Palenque
-{{< /timelineItem >}}
-
-{{< timelineItem icon="image" header="17:00 - 19:00" badge="Exposición" subheader="Inauguración: Liga Andaluza de Fotografía" >}}
-
-Visita guiada a la exposición de las obras ganadoras de 2026.<br>
-<i> <b>Lugar</b></i>: Carnicerías Reales c/Luz, 32 <br>
+Acto de inauguración de la sala <a href="/sala_fiap/"> FIAP de Priego de Córdoba.</a> Acto presentado por Jesús M. García Flores y Presidente Riccardo Busi. <br>
+<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/dZCU5CUTiuRjfn7C6" target="_blank">Salad de Exposiciones del Edificio Palenque</a><br>
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="image" header="18:00 - 19:00" badge="Exposición" subheader="Inauguración: Liga Andaluza de Fotografía" >}}
+{{< timelineItem icon="mug-hot" header="14:00" subheader="Almuerzo libre" badge="Comida" >}}
 
-Visita guiada a la exposición de las obras ganadoras de 2026.<br>
-<i> <b>Lugar</b></i>: Carnicerías Reales c/Luz, 32 <br>
+Aprovecha para descubrir la gastronomía local en alguno de los establecimientos que ofrece la ciudad. Puedes encontrar ideas <a href="https://turismodepriego.com/donde-comer/"> aquí.</a>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="image" header="17:00 - 18:00" badge="Actividades" subheader="Visitas a la ciudad" >}}
+
+Recorrido turístico por la ciudad. <br>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="image" header="18:00" badge="Actividades" subheader="Inauguración de exposiciones" >}}
+
+<b>- Exposición colectiva de los asociados de Afopriego.</b><br>
+<i> <b>Lugar</b></i>: <a href="" target="_blank">Sala Afopriego</a><br>
+
+<bf>- Exposición "Cielografías" por Jorge Ruiz Dueso.</bf>Premio Nacional de Fotografía de la CEF-2021.<br>
+<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/ERLnJpNezARkaC42A" target="_blank">Sala paisaje del Museo Adolfo Lozano Sidro</a><br>
+
+<bf>- Exposición de la IX Liga de la Federación Andaluza de Fotografía.</bf><br>
+<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/ZCrvosV2JJ18LBD97" target="_blank">Claustro de la Hospedería de San Francisco</a><br>
+
+<bf>- Exposición "Street"</bf> de las Asociaciones Fotográficas Cordobesas.<br>
+<i> <b>Lugar</b></i>: <a href="" target="_blank">Recorrido por los escaparates de la ciudad.</a><br>
 
 {{< /timelineItem >}}
 
@@ -227,14 +242,3 @@ Acto de clausura del congreso y foto grupal.<br>
 {{< /accordionItem >}}
 
 {{< /accordion >}}
-
-<br>
-
-{{<alert icon="none">}}
-Con el objetivo de que el Congreso acogiera actividades de formación de calidad e interés general, y no disponiendo de tiempo suficiente durante la realización del mismo, hemos considerado extenderlo en un fin de semana para poder incluirlas.
-Dada la importancia del entorno natural de la sede del Congreso, el Geoparque de las Sierras Subbéticas (**declarado Geoparque Mundial de la UNESCO**), decidimos ofrecer la oportunidad que nos ofrece fotográficamente.  Por ello se ha  organizado  un fin de semana de precongreso para impartir un taller de fotografía de naturaleza con el prestigioso fotógrafo especialista en ese ámbito,  **Mario Cea.**
-
-Esperamos sea de vuestro interés.
-
-#### Os esperamos.
-{{< /alert >}}
