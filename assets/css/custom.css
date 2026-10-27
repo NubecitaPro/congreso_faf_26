@@ -348,6 +348,12 @@ h6 {
   }
 }
 
+.single-image-post {
+  width: auto;
+  height: 500px;
+  max-width: 100%;
+}
+
 .grid {
   column-gap: 1rem;
   row-gap: 1rem;
