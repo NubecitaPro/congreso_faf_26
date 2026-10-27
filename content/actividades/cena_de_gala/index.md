@@ -18,9 +18,62 @@ tags: ["actividades", "comida"]
 > [!TIP] Datos importantes
 > **Fecha:** Sábado, 6 de marzo \
 > **Lugar:** [Hotel Huerta de Las Palomas](https://maps.app.goo.gl/LnMFZ8qh6mQAnGMj8) \
-> **Aforo:** Ilimitado
+> **Aforo:** Ilimitado \
+> **Precio:** 42,50 € (Menú 1) o 46 € (Menú 2)
 
-_Menú y precio por concretar_
+## Menú 1 — 42,50 € por persona
+
+### Entrantes
+
+- Patatas fritas en AOVE
+- Aceitunas de la tierra
+- Queso en aceite
+- Jamón serrano
+- Cucharita de mazamorra con AOVE y pan de higos
+- Aceitunas fritas rellenas de gambas al ajillo
+- Cucharita de remojón con bacalao
+- Tosta de paté de perdiz con PX y AOVE
+
+### Plato principal (a elegir)
+
+- Bacalao al horno con AOVE y ajos, sobre pisto con aceitunas negras y albahaca
+- Medallones de solomillo a la crema de aceitunas y aceite de romero
+
+### Postre
+
+Helado de AOVE sobre crumble de turrolate
+
+## Menú 2 — 46 € por persona
+
+### Entrantes
+
+- Patatas fritas en AOVE
+- Aceitunas de la tierra
+- Queso en aceite
+- Surtido de ibéricos
+- Cuenquito de salmorejo con AOVE, jamón ibérico y huevo de codorniz
+- Aceitunas fritas rellenas con gambas al ajillo
+- Cucharita de remojón con bacalao
+- Tartar de salchichón con mahonesa de AOVE sobre tosta de aceite y anís
+
+### Plato principal (a elegir)
+
+- Bacalao al horno con AOVE y ajos, sobre pisto con aceitunas negras y albahaca
+- Secreto confitado en AOVE con manzana caramelizada
+
+### Postre
+
+Helado de AOVE sobre crumble de turrolate
+
+### Bebidas incluidas en ambos menús
+
+- Fino de Montilla-Moriles
+- Vino tinto de la casa
+- Vino blanco frizzante
+- Vino blanco verdejo
+- Cerveza
+- Refrescos
+- Agua mineral
 
 {{< alert >}}
 **Importante** reservar plaza al realizar la inscripción al congreso.
