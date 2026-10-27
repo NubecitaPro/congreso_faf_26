@@ -6,4 +6,4 @@ showAuthor: false
 showDate: false
 ---
 
-{{< tally id="68B7M5" >}}
+{{< tally id="Z99Oyo" >}}
