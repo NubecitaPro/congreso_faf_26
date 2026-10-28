@@ -35,14 +35,20 @@ Más información
 
 {{< timelineItem icon="mug-hot" header="14:00-16:00" subheader="Almuerzo" badge="Comida" >}}
 
-Se organizará un almuerzo conjunto para reunir a los participantes del taller que quieran compartir unos momentos de distensión.
+<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/bCdFQ78aYAbeBKan9 target="_blank">Bar El Casino</a></br></br>
+
+Se organizará un almuerzo conjunto para reunir a los participantes del taller que quieran compartir unos momentos de distensión. Recuerda apuntarte a la hora de la inscripción, si quieres asistir.<br><br>
+
+{{< button pageRef="/actividades/comida_del_congreso/" >}}
+Ver menú
+{{< /button >}}
 
 {{< /timelineItem >}}
 
 {{< timelineItem icon="graduation-cap" header="17:00 - 20:00" subheader="Taller \"Fotografía Paisaje y Naturaleza\"" badge="Taller">}}
 
-<i> <b>Docente:</b></i> <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
-<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br></br>
+<i> <b>Docente:</b></i> <a href="https://www.mariocea.net/sobre-mi"  target="_blank" rel="afopriego">Mario Cea</a> <br>
+<i> <b>Lugar:</b></i> <a href="https://maps.app.goo.gl/1jaVN31UwYGrffw18" target="_blank"> Teatro Victoria</a></br></br>
 
 Programa de tarde </br></br>
 
@@ -52,11 +58,11 @@ Más información
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="sun" header="17:00 - 18:30" badge="Salida fotográfica" subheader="Por la ciudad" >}}
+{{< timelineItem icon="sun" header="17:00" badge="Actividades" subheader="Visita Turística" >}}
 
-Completar: visita para los acompañantes por la ciudad
+<i> <b>Lugar:</b></i><a href="https://maps.app.goo.gl/dHFbMYs8z1ftAURM9" target="_blank"> Plaza de la Constitución</a><br>
 
-<i> <b>Lugar:</b></i> Por concretar <br>
+Visita guiada por la ciudad. Recuerda reservar plaza.
 
 {{< /timelineItem >}}
 
@@ -77,10 +83,10 @@ Aprovecha para descrubir los múltiples lugares que ofrece la ciudad para descub
 
 {{< timelineItem icon="graduation-cap" header="11:00 - 13:00" subheader="Taller \"Fotografía Paisaje y Naturaleza\"" badge="Taller">}}
 
-<i> <b>Ponente:</b></i> <a href=https://www.mariocea.net/sobre-mi  target="_blank" rel="afopriego">Mario Cea</a> <br>
-<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br>
+<i> <b>Ponente:</b></i> <a href="https://www.mariocea.net/sobre-mi"  target="_blank" rel="afopriego">Mario Cea</a> <br>
+<i> <b>Lugar:</b></i> <a href="https://maps.app.goo.gl/1PubrwcQCByzYp8h6" target="_blank"> Recinto ferial</a></br>
 
-Continuación del taller "Fotografía Paisaje y Naturaleza" </br></br>
+Continuación del taller "Fotografía Paisaje y Naturaleza" realizando unas prácticas de fotografía de acción con aves en condiciones controladas</br></br>
 
 {{< button pageRef="/actividades/tecnicas_creativas_con_fauna_salvaje/" >}}
 Más información
@@ -88,10 +94,11 @@ Más información
 
 {{< /timelineItem >}}
 
+<i> <b>Lugar:</b></i> Por concretar</a></br>
+
 {{<timelineItem icon="image" header="13:00 - 13:15" badge="Exposición" subheader="Inauguración de exposición" >}}
 Inauguración de la Exposición del II Concurso Fotografía "La Subbética".
 <br>
-<i> <b>Lugar:</b></i> Por concretar</a></br>
 
 {{< /timelineItem >}}
 
@@ -109,7 +116,7 @@ A continuación se detalla el pograma completo del congreso. Se irá actualizand
 <!-- Primer día de congreso -->
 
 {{< accordion mode="collapse" separated=true >}}
-{{< accordionItem title="Dia 1 | Viernes | 5 de marzo " md=false >}}
+{{< accordionItem title="5 de marzo | Viernes" md=false >}}
 {{< timeline >}}
 
 {{< timelineItem icon="github" header="10:30 -14:00" badge="Recepción" subheader="Recepción de congresistas" >}}
@@ -122,9 +129,10 @@ Los congresistas serán recibidos en la Oficina de turismo para entregarles sus 
 <i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/azjGgpMRY9GbCVk27" target="_blank">Ayuntamiento</a><br>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="github" header="13:00" badge="Inauguración" subheader="Inauguración de la Sala FIAP" >}}
-Acto de inauguración de la sala <a href="/sala_fiap/"> FIAP de Priego de Córdoba.</a> Acto presentado por Jesús M. García Flores y Presidente Riccardo Busi. <br>
-<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/dZCU5CUTiuRjfn7C6" target="_blank">Salad de Exposiciones del Edificio Palenque</a><br>
+{{< timelineItem icon="github" header="13:00" badge="Inauguración" subheader="Inauguración Exposiciones" >}}
+
+<b>- Exposición Ganador de la III Beca Joven de la FAF. En las <a href="https://maps.app.goo.gl/XdkY9q8LCLccSxjm9" target="_blank">Carnicerías Reales</a></b> <br>
+<b>- Exposición "Street" de las Asociaciones Fotográficas Cordobesas.</b> Se expondrá en los escaparates de algunos establecimientos. <br>
 
 {{< /timelineItem >}}
 
@@ -134,31 +142,48 @@ Aprovecha para descubrir la gastronomía local en alguno de los establecimientos
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="image" header="17:00 - 18:00" badge="Actividades" subheader="Visitas a la ciudad" >}}
+{{< timelineItem icon="sun" header="17:00" badge="Actividades" subheader="Visita Turística" >}}
 
-Recorrido turístico por la ciudad. <br>
+<i> <b>Lugar:</b></i><a href="https://maps.app.goo.gl/dHFbMYs8z1ftAURM9" target="_blank"> Plaza de la Constitución</a><br>
+
+Visita guiada por la ciudad. Recuerda reservar plaza.
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="image" header="18:00" badge="Actividades" subheader="Inauguración de exposiciones" >}}
+{{< timelineItem icon="github" header="17:30" badge="Presentación" subheader="Presentación del libro \"Duets\"" >}}
+
+<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/ERLnJpNezARkaC42A" target="_blank">Museo Adolfo Lozano Sidro</a><br>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="image" header="18:30" badge="Actividades" subheader="Inauguración de exposiciones" >}}
 
 <b>- Exposición colectiva de los asociados de Afopriego.</b><br>
-<i> <b>Lugar</b></i>: <a href="" target="_blank">Sala Afopriego</a><br>
-
-<bf>- Exposición "Cielografías" por Jorge Ruiz Dueso.</bf>Premio Nacional de Fotografía de la CEF-2021.<br>
-<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/ERLnJpNezARkaC42A" target="_blank">Sala paisaje del Museo Adolfo Lozano Sidro</a><br>
-
-<bf>- Exposición de la IX Liga de la Federación Andaluza de Fotografía.</bf><br>
+<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/qQWTvcdnhzCKpDm67" target="_blank">Sala Afopriego</a><br>
+<b>- Exposición de la IX Liga de la Federación Andaluza de Fotografía.</b><br>
 <i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/ZCrvosV2JJ18LBD97" target="_blank">Claustro de la Hospedería de San Francisco</a><br>
-
-<bf>- Exposición "Street"</bf> de las Asociaciones Fotográficas Cordobesas.<br>
-<i> <b>Lugar</b></i>: <a href="" target="_blank">Recorrido por los escaparates de la ciudad.</a><br>
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="star" header="Todo el día" badge="Concurso" subheader="Concurso de microrrelatos" >}}
+{{< timelineItem icon="image" header="20:00" badge="Actividades" subheader="Espectáculo musicial" >}}
+<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/KWhSiSRhULMstURa9" target="_blank">Teatro Victoria</a><br>
 
-Presentación del concurso de microrrelatos.<br>
+- Espectáculo musical: Finalistas del Concurso <b><i>Cuando el Jazz y la Poesía se congelan en la imagen</i></b>.<br>
+- Entrega de premios del <b>Concurso Nacional de Relatos Cortos: "Palabras en un instante"</b>.<br>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="mug-hot" header="Cena libre" badge="Cena" >}}
+
+Aprovecha para descrubir los múltiples lugares que ofrece la ciudad para descubrir su gastronomía.
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="mug-hot" header="23:30" badge="Actividades" subheader="Taller nocturno" >}}
+
+<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/bCdFQ78aYAbeBKan9 target="_blank">Bar El Casino</a></br></br>
+
+Fotografía de Jazz (pendiente de confirmación). Es necesario inscripción.
 
 {{< /timelineItem >}}
 
@@ -168,36 +193,75 @@ Presentación del concurso de microrrelatos.<br>
 
 <!-- Segundo día de congreso -->
 
-{{< accordionItem title="Dia 2 | Sábado | 6 de marzo " md=false >}}
+{{< accordionItem title="6 de marzo | Sábado" md=false >}}
 {{< timeline >}}
 
-{{< timelineItem icon="github" header="Asamblea de asociaciones" badge="Actividad" subheader="10:00-14:00" >}}
+{{< timelineItem icon="github" subheader="Asamblea de asociaciones" badge="Actividades" header="10:00" >}}
 
-<i> <b>Lugar</b></i>: Por concretar<br>
+<i> <b>Lugar:</b></i><a href="https://maps.app.goo.gl/gumcFdPZ9L8c2Krv7" target="_blank"> Sala de conferencias del Edificio Palenque</a><br>
 {{< /timelineItem >}}
 
-{{<timelineItem icon="users" header="Inauguración IV Beca Joven" badge="Exposición" subheader="12:00-13:00" >}}
+{{< timelineItem icon="github" subheader="Cata de AOVE" badge="Actividades" header="10:00" >}}
 
-Inauguración IV Beca Joven. Exposición y de escaparate y 4 autores FIAP<br>
+<i> <b>Lugar:</b></i><a href="https://maps.app.goo.gl/zCaTebZN9uB3ftNe9" target="_blank"> Centro de Iniciativa Empresarial, plaza de San Pedro</a><br>
 
-<i> <b>Ponentes</b></i>> <br>
-<i> <b>Lugar</b></i>: Teatro Victoria c/Antonio de la Barrera, 19 <br>
-
+Recuerda reservar tu plaza.<br>
 {{< /timelineItem >}}
 
-{{<timelineItem icon="users" header="Cata de aceite" badge="Actividades" subheader="12:00-13:00" >}}
+{{< timelineItem icon="github" header="11:30" badge="Inauguración" subheader="Inauguración de la Exposición Cielografías" >}}
 
-Inauguración IV Beca Joven. Exposición y de escaparate y 4 autores FIAP<br>
+<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/ERLnJpNezARkaC42A" target="_blank">Museo Adolfo Lozano Sidro, Sala paisaje</a><br>
 
-<i> <b>Ponentes</b></i>> <br>
-<i> <b>Lugar</b></i>: Teatro Victoria c/Antonio de la Barrera, 19 <br>
+<b>Exposición "Cielografías" de Jorge Ruíz Dueso</b>. Premio Nacional de Fotografía de la CEF-2021.
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="coffee" header="Cena de gala" badge="Cena" subheader="21:00-00:00" >}}
+{{< timelineItem icon="sun" header="12:00" badge="Actividades" subheader="Visita Turística" >}}
 
-Cena de gala del congreso.<br>
+<i> <b>Lugar:</b></i><a href="https://maps.app.goo.gl/dHFbMYs8z1ftAURM9" target="_blank"> Plaza de la Constitución</a><br>
+
+Visita guiada por la ciudad. Recuerda reservar plaza.
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="github" header="13:00" badge="Inauguración" subheader="Inauguración de la Sala FIAP" >}}
+<i> <b>Lugar</b></i>: <a href="https://maps.app.goo.gl/dZCU5CUTiuRjfn7C6" target="_blank">Salad de Exposiciones del Edificio Palenque</a><br>
+
+Acto de inauguración de la sala <a href="/sala_fiap/"> FIAP de Priego de Córdoba.</a> Acto presentado por el Sr. vicepresidente FIAP D. Joan Burgués Martisella, Jesús M. García Flores (Representante español FIAP) y el presidente Riccardo Busi.<br>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="mug-hot" header="14:00" subheader="Almuerzo de trabajo" badge="Comida" >}}
+
+<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/bCdFQ78aYAbeBKan9 target="_blank">Bar El Casino</a></br></br>
+
+Almuerzo de trabajo donde se ofrecerá un menú degustación. Recuerda apuntarte a la hora de la inscripción, si quieres asistir.<br><br>
+
+{{< button pageRef="/actividades/comida_del_congreso/" >}}
+Ver menú
+{{< /button >}}
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="graduation-cap" header="19:00" subheader="Gala Congreso" badge="Actividades">}}
+
+<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a><br></br>
+
+Acto de entrega de premios y distinciones de la Federación Andaluza. Entrega de Premios del Concurso <b><i>Cuando el Jazz y la Poesía se congelan en imagen</i></b>.
+
+<br>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="mug-hot" header="Cena de gala" badge="Cena" subheader="21:30" >}}
+
 <i><b>Lugar</b></i>: <a href="https://maps.app.goo.gl/NEN828vo4NZzB4tk6" target="_blank">Hotel Huerta de las Palomas</a><br>
+
+Cena de gala del congreso. Requiere inscripción (autobús incluido).<br><br>
+
+{{< button pageRef="/actividades/cena_de_gala/" >}}
+Ver menú
+{{< /button >}}
 
 {{< /timelineItem >}}
 
@@ -207,33 +271,29 @@ Cena de gala del congreso.<br>
 
 <!-- Tercer día de congreso -->
 
-{{< accordionItem title="Dia 3 | Domingo | 7 de marzo " md=false >}}
+{{< accordionItem title="7 de marzo | Domingo" md=false >}}
 {{< timeline >}}
 
-{{< timelineItem icon="github" header="La mirada del crítico fotográfico" badge="Taller" subheader="10:00-11:00" >}}
+{{< timelineItem icon="github" subheader="Cata de AOVE" badge="Actividades" header="10:00" >}}
 
-<i> <b>Ponente</b></i>: Jesús M. Flores <br>
-<i> <b>Lugar</b></i>: Por concretar
+<i> <b>Lugar:</b></i><a href="https://maps.app.goo.gl/zCaTebZN9uB3ftNe9" target="_blank"> Centro de Iniciativa Empresarial, plaza de San Pedro</a><br>
+
+Recuerda reservar tu plaza.<br>
 {{< /timelineItem >}}
 
-{{<timelineItem icon="users" header="Paseo fotográfico o actividad" badge="Actividad" subheader="11:00-12:00" >}}
-POR DEFINIR<br>
-<i> <b>Lugar</b></i>: Por definir <br>
+{{< timelineItem icon="github" subheader="La mirada del crítico fotográfico" badge="Taller" header="11:30" >}}
 
-{{< /timelineItem >}}
+<i> <b>Lugar:</b></i> <a href=https://maps.app.goo.gl/1jaVN31UwYGrffw18 target="_blank"> Teatro Victoria</a></br></br>
 
-{{< timelineItem icon="laptop" header="Cata de AOV y visita a una almazara" badge="Cata" subheader="12:00-14:00" >}}
-
-Actividad donde se realizará una cata de aceite de oliva virgen extra en una de las almazaras de la ciudad.<br>
-
-<i> <b>Lugar</b></i>: Por definir<br>
+Conferencia <b>"La mirada del crítico fotográfico" por Jesús M. García Flores y Montse González</b>.
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="coffee" header="Clausura" badge="Actividad" >}}
+{{< timelineItem icon="sun" header="12:30" badge="Actividades" subheader="Visita Turística" >}}
 
-Acto de clausura del congreso y foto grupal.<br>
-<i> <b>Lugar</b></i>: Por definir<br>
+<i> <b>Lugar:</b></i><a href="https://maps.app.goo.gl/dHFbMYs8z1ftAURM9" target="_blank"> Plaza de la Constitución</a><br>
+
+Visita guiada por la ciudad. Recuerda reservar plaza.
 
 {{< /timelineItem >}}
 
