@@ -19,9 +19,9 @@ tags: ["actividades", "comida"]
 > **Fecha:** Sábado, 6 de marzo \
 > **Lugar:** [Hotel Huerta de Las Palomas](https://maps.app.goo.gl/LnMFZ8qh6mQAnGMj8) \
 > **Aforo:** Ilimitado \
-> **Precio:** 42,50 € (Menú 1) o 46 € (Menú 2)
+> **Precio:** 42,50 €/persona
 
-## Menú 1 — 42,50 € por persona
+## Menú
 
 ### Entrantes
 
@@ -38,28 +38,6 @@ tags: ["actividades", "comida"]
 
 - Bacalao al horno con AOVE y ajos, sobre pisto con aceitunas negras y albahaca
 - Medallones de solomillo a la crema de aceitunas y aceite de romero
-
-### Postre
-
-Helado de AOVE sobre crumble de turrolate
-
-## Menú 2 — 46 € por persona
-
-### Entrantes
-
-- Patatas fritas en AOVE
-- Aceitunas de la tierra
-- Queso en aceite
-- Surtido de ibéricos
-- Cuenquito de salmorejo con AOVE, jamón ibérico y huevo de codorniz
-- Aceitunas fritas rellenas con gambas al ajillo
-- Cucharita de remojón con bacalao
-- Tartar de salchichón con mahonesa de AOVE sobre tosta de aceite y anís
-
-### Plato principal (a elegir)
-
-- Bacalao al horno con AOVE y ajos, sobre pisto con aceitunas negras y albahaca
-- Secreto confitado en AOVE con manzana caramelizada
 
 ### Postre
 
