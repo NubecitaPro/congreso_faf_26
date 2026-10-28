@@ -16,13 +16,13 @@ tags: ["actividades", "comida"]
 
 
 > [!TIP] Datos importantes
-> **Fecha:** Sábado, 6 de marzo \
+> **Fecha:** Sábado 20 de febrero, y sábado, 6 de marzo \
 > **Hora:** 14:00 \
 > **Lugar:** [Restaurante El Casino](https://maps.app.goo.gl/vLxVhrnxwWMwA7Lb9) \
 > **Aforo:** Limitado \
 > **Precio por persona:** 35€
 
-<br>
+El menú se comparte tanto en la comida organizada durante el Precongreso, como la propia del menú de trabajo del Congreso. Recuerda solicitar si quieres asistir a ambas comidas, a una o a ninguna a la hora de realizar tu inscripción.
 
 {{< typeit
   tag=h1
@@ -47,7 +47,7 @@ Salmorejo
 
 ### Plato principal
 
-Carillada o Bacalao
+Carillada o Salmón a la Naranja
 
 _A elegir_
 
